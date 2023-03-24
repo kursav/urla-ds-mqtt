@@ -1,0 +1,12 @@
+D:\Users\PC\source\repos\Nebra_Copy\Nebra\Urla-.Net 6\Urla.DS.MQTT\bin\Debug\net6.0\Urla.DS.MQTT.deps.json
+D:\Users\PC\source\repos\Nebra_Copy\Nebra\Urla-.Net 6\Urla.DS.MQTT\bin\Debug\net6.0\Urla.DS.MQTT.dll
+D:\Users\PC\source\repos\Nebra_Copy\Nebra\Urla-.Net 6\Urla.DS.MQTT\bin\Debug\net6.0\ref\Urla.DS.MQTT.dll
+D:\Users\PC\source\repos\Nebra_Copy\Nebra\Urla-.Net 6\Urla.DS.MQTT\bin\Debug\net6.0\Urla.DS.MQTT.pdb
+D:\Users\PC\source\repos\Nebra_Copy\Nebra\Urla-.Net 6\Urla.DS.MQTT\obj\Debug\net6.0\Urla.DS.MQTT.csproj.AssemblyReference.cache
+D:\Users\PC\source\repos\Nebra_Copy\Nebra\Urla-.Net 6\Urla.DS.MQTT\obj\Debug\net6.0\Urla.DS.MQTT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\PC\source\repos\Nebra_Copy\Nebra\Urla-.Net 6\Urla.DS.MQTT\obj\Debug\net6.0\Urla.DS.MQTT.AssemblyInfoInputs.cache
+D:\Users\PC\source\repos\Nebra_Copy\Nebra\Urla-.Net 6\Urla.DS.MQTT\obj\Debug\net6.0\Urla.DS.MQTT.AssemblyInfo.cs
+D:\Users\PC\source\repos\Nebra_Copy\Nebra\Urla-.Net 6\Urla.DS.MQTT\obj\Debug\net6.0\Urla.DS.MQTT.csproj.CoreCompileInputs.cache
+D:\Users\PC\source\repos\Nebra_Copy\Nebra\Urla-.Net 6\Urla.DS.MQTT\obj\Debug\net6.0\Urla.DS.MQTT.dll
+D:\Users\PC\source\repos\Nebra_Copy\Nebra\Urla-.Net 6\Urla.DS.MQTT\obj\Debug\net6.0\ref\Urla.DS.MQTT.dll
+D:\Users\PC\source\repos\Nebra_Copy\Nebra\Urla-.Net 6\Urla.DS.MQTT\obj\Debug\net6.0\Urla.DS.MQTT.pdb
