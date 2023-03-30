@@ -27,6 +27,7 @@ namespace Urla.DS.MQTT
         public event EventHandler<MqttClientDisconnectedEventArgs> OnDisconnected = delegate { };
         public event EventHandler<RelationEventArgs> OnRelationUpdated = delegate { };
         public event EventHandler<MqttApplicationMessageReceivedEventArgs> OnOtherMessagesReceived = delegate { };
+        public event EventHandler<ParseFailedEventArgs> OnMessageParseFailed = delegate { };
 
         public async Task ConnectAsync(string user, string password)
         {
@@ -90,8 +91,8 @@ namespace Urla.DS.MQTT
                     OnOtherMessagesReceived(this, e);
                 }
             }
-            catch (Exception)
-            { OnRelationCreated(this, new RelationEventArgs(null)); }
+            catch (Exception ex)
+            { OnMessageParseFailed(this, new ParseFailedEventArgs(ex, e)); }
             return Task.CompletedTask;
         }
 
